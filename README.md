@@ -10,7 +10,7 @@ I'm a **Software Engineering student** with a passion for **web development**. I
 
   
 
-        <h1 align="left"><strong>💻 Languages & Tools I Use</strong></h1>
+        💻 Languages & Tools
 
 
 <div align="left">
