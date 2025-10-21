@@ -53,6 +53,19 @@ I'm a Software Engineering student with a passion for web development.I speciali
 
 
 <br>
+## Social Media:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/abay-tesfaye-251742310/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/eeyban2/profilecard/?igsh=eDZiZnplNDYzaG0x"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
+## My ❤ Followers:
+<a href="https://github.com/Borifan02?tab=followers"><img src="https://img.shields.io/github/followers/Borifan02?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br>
 
 <div align="center">
   <!-- Typing animation -->
