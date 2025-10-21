@@ -43,6 +43,13 @@ I'm a Software Engineering student with a passion for web development.I speciali
   </a>
 </div>
 <br>
+## 📊 My GitHub Profile Summary:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Borifan02&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Borifan02&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Borifan02&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Borifan02&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Borifan02&theme=dracula&utcOffset=8)
 
 <h3 align="left">Languages Most Used:</h3>
 
