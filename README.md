@@ -15,7 +15,6 @@
 
 
 
-
                <h1><strong>About me</strong></h1>
 <p>I'm a Software Engineering student with a passion for web development. I specialize in creating responsive, user-friendly websites and applications. My goal is to develop impactful software that solves real-world problems.</p>
 <br>
