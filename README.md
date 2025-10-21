@@ -14,9 +14,7 @@
 
 <h1 align="center"><strong>About Me</strong></h1>
 <p align="center">
-I'm a Software Engineering student with a passion for web development. 
-I specialize in creating responsive, user-friendly websites and applications.
-My goal is to develop impactful software that solves real-world problems.
+I'm a Software Engineering student with a passion for web development.I specialize in creating responsive, user-friendly websites and applications.My goal is to develop impactful software that solves real-world problems.
 </p>
 
 <br>
