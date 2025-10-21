@@ -13,6 +13,7 @@
 - Backend: Node.js, PHP, MySQL, MongoDB
 - Other: Git , Github
 - 📫 How to reach me **dabasaborifan@gmail.com**
+- 👨‍💻 All about me are available at https://borifan02.github.io/personal-portfolio/
   <br>
 
     <h3 align="left">Connect with me:</h3>
