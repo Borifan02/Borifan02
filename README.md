@@ -6,7 +6,7 @@
 <div style="display: flex; align-items: center; justify-content: center; margin: 20px; flex-direction: column;">
   <div style="text-align: center;">
    
-    <p align="center">
+    
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Borifan02&theme=radical" alt="GitHub Streak" />
 </p>
     <h3 align="center">✨ MERN Stack Website Developer || Video Editor ✨</h3>
@@ -15,8 +15,8 @@
 
 
 
-               <h1><strong>About me</strong></h1>
-<p>I'm a Software Engineering student with a passion for web development. I specialize in creating responsive, user-friendly websites and applications. My goal is to develop impactful software that solves real-world problems.</p>
+               <h1 align="center"><strong>About Me</strong></h1>
+<p align="center">I'm a Software Engineering student with a passion for web development. I specialize in creating responsive, user-friendly websites and applications. My goal is to develop impactful software that solves real-world problems.</p>
 <br>
 
 <h2>🚀 <strong></strong>Skills & Technologies</strong></h2>
