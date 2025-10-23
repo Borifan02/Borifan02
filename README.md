@@ -5,12 +5,12 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Borifan02&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Borifan02&show_icons=true&theme=radical" alt="GitHub Stats" />
 
   <h3>✨ MERN Stack Website Developer || Video Editor ✨</h3>
 </div>
 
----
+
 
 <h1 align="center"><strong>About Me</strong></h1>
 <p>
