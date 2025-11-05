@@ -22,7 +22,7 @@ I'm a Software Engineering student with a passion for web development.I speciali
 
 <h2>🚀 <strong></strong>Skills & Technologies</strong></h2>
 
-- Frontend: HTML, CSS, JavaScript, React
+- Frontend: HTML, CSS, JavaScript, React,Next JS, Tailwind css, Bootstrap , Redux
 - Backend: Node.js, PHP, MySQL, MongoDB
 - Other: Git , Github
 - 📫 How to reach me **dabasaborifan@gmail.com**
