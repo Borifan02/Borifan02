@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Borifan02&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-  <h3>✨ MERN Stack Website Developer || Video Editor ✨</h3>
+  <h3>✨ MERN Stack Website Developer ✨</h3>
 </div>
 
 
