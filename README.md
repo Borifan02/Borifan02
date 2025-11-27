@@ -7,14 +7,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Borifan02&show_icons=true&theme=radical" alt="GitHub Stats" />
 
-  <h3>✨ UI/UX DESIGNER|FRONTEND|FULLSTACK DEVELOPER ✨</h3>
+  <h3>✨ UI/UX DESIGNER| FRONTEND| FULLSTACK DEVELOPER ✨</h3>
 </div>
 
 
 
 <h1 align="center"><strong>About Me</strong></h1>
 <p>
-I'm a Software Engineering student with a passion for web development.I specialize in creating responsive, user-friendly websites and applications.My goal is to develop impactful software that solves real-world problems.
+I'm a Software Engineer with a foundation web development.I specialize in creating responsive, user-friendly websites and applications.My goal is to develop impactful software that solves real-world problems.
 </p>
 
 <br>
