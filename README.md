@@ -26,7 +26,7 @@ I'm a Software Engineer with a foundation web development.I specialize in creati
 - Backend: Node.js, PHP, MySQL, MongoDB
 - Other: Git , Github
 - 📫 How to reach me **dabasaborifan@gmail.com**
-- 👨‍💻 All about me are available at **https://borifan02.github.io/personal-portfolio/**
+- 👨‍💻 All about me are available at **https://professional-portfolio-borifan.vercel.app/**
   <br>
 
     <h3 align="left">Connect with me:</h3>
