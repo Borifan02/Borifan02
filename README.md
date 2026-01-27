@@ -23,8 +23,9 @@ I am a Software Engineer with a solid background in web development, focused on 
 <h2>🚀 <strong></strong>Skills & Technologies</strong></h2>
 
 - Frontend: HTML, CSS, JavaScript, React,Next JS, Tailwind css, Bootstrap , Redux
-- Backend: Node.js, PHP, MySQL, MongoDB
-- Other: Git , Github,Python for Machine learning 
+- Backend: Node.js, PHP, MySQL, MongoDB,RESTful APIs
+- Other: Git , Github,Postman,VS Code,npm / yarn
+- Machine Learning (Learning): Python,NumPy, Pandas,Matplotlib, Seaborn,Scikit-learn,Data Cleaning, Visualization, Model Evaluation
 - 📫 How to reach me **dabasaborifan@gmail.com**
 - 👨‍💻 All about me are available at **https://professional-portfolio-borifan.vercel.app/**
   <br>
