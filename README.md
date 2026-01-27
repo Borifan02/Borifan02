@@ -14,7 +14,7 @@
 
 <h1 align="center"><strong>About Me</strong></h1>
 <p>
-I'm a Software Engineer with a foundation web development.I specialize in creating responsive, user-friendly websites and applications.My goal is to develop impactful software that solves real-world problems.
+I am a Software Engineer with a solid background in web development, focused on building modern, responsive, and user-friendly applications. I enjoy turning ideas into real-world solutions through clean and efficient code. I am also passionate about Machine Learning and continuously learning how to build intelligent, data-driven systems that can make a real impact.
 </p>
 
 <br>
