@@ -24,7 +24,7 @@ I'm a Software Engineer with a foundation web development.I specialize in creati
 
 - Frontend: HTML, CSS, JavaScript, React,Next JS, Tailwind css, Bootstrap , Redux
 - Backend: Node.js, PHP, MySQL, MongoDB
-- Other: Git , Github
+- Other: Git , Github,Python for Machine learning 
 - 📫 How to reach me **dabasaborifan@gmail.com**
 - 👨‍💻 All about me are available at **https://professional-portfolio-borifan.vercel.app/**
   <br>
